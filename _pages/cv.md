@@ -13,9 +13,10 @@ You can download my full resume from [here](https://github.com/ErfanDejband/Erfa
 
 <ul>
   <i class="fas fa-award" style="color:#FFD700;font-size:20px"></i>  Neural Networks and Deep LearningNeural Networks and Deep Learning <b> Coursera. </b>
-  ![image](https://user-images.githubusercontent.com/92718738/219553319-45d5b230-c011-4e3a-9f55-2effecae76c8.png)
+  ![Screenshot 2023-02-17 130409](https://user-images.githubusercontent.com/92718738/219553929-b6dd48a8-3a33-4394-8fc5-56f67b32225b.png)
 </ul>
 <ul>
   <i class="fas fa-award" style="color:#FFD700;font-size:20px"></i> Silicon Photonics Design, Fabrication and Data AnalysisSilicon Photonics Design, Fabrication and Data Analysis <b> Sharif University of Technology. </b>
-  ![image](https://user-images.githubusercontent.com/92718738/219553661-bb177f5f-6245-4d5a-9296-ec0c8f3d6371.png)
+ ![Screenshot 2023-02-17 130357](https://user-images.githubusercontent.com/92718738/219554052-67af69bc-07d1-4b97-93d0-e1225e4e9fc1.png)
+
 </ul>
