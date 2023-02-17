@@ -13,10 +13,15 @@ You can download my full resume from [here](https://github.com/ErfanDejband/Erfa
 
 <ul>
   <i class="fas fa-award" style="color:#FFD700;font-size:20px"></i>  Neural Networks and Deep LearningNeural Networks and Deep Learning <b> Coursera. </b>
-  https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/Screenshot%202023-02-17%20130357.png
+  <p align="center">
+  <img width="850" height="350" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/Screenshot%202023-02-17%20130409.png?raw=true">
+</p>
 </ul>
 <ul>
   <i class="fas fa-award" style="color:#FFD700;font-size:20px"></i> Silicon Photonics Design, Fabrication and Data AnalysisSilicon Photonics Design, Fabrication and Data Analysis <b> Sharif University of Technology. </b>
- ![Screenshot 2023-02-17 130357](https://user-images.githubusercontent.com/92718738/219554052-67af69bc-07d1-4b97-93d0-e1225e4e9fc1.png)
+ 
+   <p align="center">
+  <img width="850" height="350" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/Screenshot%202023-02-17%20130357.png?raw=true">
+</p>
 
 </ul>
