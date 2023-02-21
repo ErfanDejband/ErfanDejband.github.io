@@ -11,45 +11,6 @@ redirect_from:
 <header class="post-header">
 <h1 class="post-title">About me</h1>
 </header>
-
-<style>
-body {
-  background-color: white;
-  color: black;
-}
-
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-</style>
-<button onclick="myFunction()">Dark mode</button>
-<script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
-<script>
-    checkbox.addEventListener( 'change', myFunction() {
-         localStorage.setItem('dark',this.checked);
-         if(this.checked) {
-              body.classList.add('dark')
-         } else {
-              body.classList.remove('dark')     
-         }
-    });
-    
- </script>   
- 
- <script>
-    if(localStorage.getItem('dark')) {
-         body.classList.add('dark');
-    }
-
-  </script> 
-
-
 <p> Hello and thanks for stopping by! 
   
   
