@@ -14,10 +14,8 @@ redirect_from:
 
 <style>
 body {
-  padding: 25px;
   background-color: white;
   color: black;
-  font-size: 25px;
 }
 
 .dark-mode {
@@ -25,11 +23,7 @@ body {
   color: white;
 }
 </style>
-</head>
-
-
-<button onclick="myFunction()">Toggle dark mode</button>
-
+<button onclick="myFunction()">Dark mode</button>
 <script>
 function myFunction() {
    var element = document.body;
@@ -37,7 +31,7 @@ function myFunction() {
 }
 </script>
 <script>
-    checkbox.addEventListener( 'change', function() {
+    checkbox.addEventListener( 'change', myFunction() {
          localStorage.setItem('dark',this.checked);
          if(this.checked) {
               body.classList.add('dark')
