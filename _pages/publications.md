@@ -21,7 +21,13 @@ author_profile: true
 #more {display: none;}
 </style> 
  
-
+<span id="dots2"></span><span id="more2">
+ <script>
+  if (document.getElementById("dots2").style.display != "none"){
+  document.getElementById("dots2").style.display = "inline";
+  document.getElementById("more2").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
