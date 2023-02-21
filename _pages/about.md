@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <header class="post-header">
-<h1 class="post-title">About me</h1>
+<h1 class="post-title">About me </h1>
 </header>
 <p> Hello and thanks for stopping by! 
   
