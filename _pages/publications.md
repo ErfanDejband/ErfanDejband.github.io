@@ -11,6 +11,48 @@ author_profile: true
 <h1 class="year">2022</h1> 
 
  <ul>
+     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">High Accuracy and Cost-Effective Fiber Optic Liquid Level Sensing System Based on Deep Neural Network </a>
+<br><strong>Erfan Dejband</strong>, Yibeltal Chanie Manie,Yu-Jie Deng, Mekuanint Agegnehu Bitew, Tan-Hsu Tan, and Peng-Chun Peng <br><em>MDPI, 2023, <b> DIO: </b><a href="x.x.x.x.x.x.x" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360/pdf?version=1676906491" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn">Show Abstract</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots">In this paper, a novel liquid level sensing system is proposed to enhance the capacity of the sensing system, as well as reduce the cost and increase the sensing accuracy. The proposed sensing system can monitor the liquid level of several points at the same time in the sensing unit. Additionally, for cost efficiency, the proposed system employs only one sensor at each spot and all the sensors are multiplexed. In multiplexed systems, when changing the liquid level inside the container, the float position is changed and leads to an overlap or cross-talk between two sensors. To solve this overlap problem and to accurately predict the liquid level of each container, we proposed a deep neural network (DNN) approach to properly identify the water level. The performance of the proposed DNN model is evaluated via two different scenarios and the result proves that the proposed DNN model can accurately predict the liquid level of each point. Furthermore, when comparing the DNN model with the conventional machine learning schemes, including random forest (RF) and support vector machines (SVM), the DNN model exhibits the best performance.</span><span id="more">
+ 
+ <p align="center">
+  <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
+</p>
+
+
+<p align="justify"><b>Abstract:</b> .</p></span></ul>
+
+
+<script>
+function myFunction2() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+
+<h1 class="year">2022</h1> 
+
+ <ul>
      <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
 <br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <b> DIO: </b><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
 
