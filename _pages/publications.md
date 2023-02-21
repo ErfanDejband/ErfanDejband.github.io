@@ -15,13 +15,13 @@ author_profile: true
 <br><strong>Erfan Dejband</strong>, Yibeltal Chanie Manie,Yu-Jie Deng, Mekuanint Agegnehu Bitew, Tan-Hsu Tan, and Peng-Chun Peng <br><em>MDPI, 2023, <b> DIO: </b><a href="x.x.x.x.x.x.x" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360/pdf?version=1676906491" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360/pdf?version=1676906491" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn2">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
 </style> 
  
-<span id="dots"></span><span id="more">
+<span id="dots2"></span><span id="more2">
  
  <p align="center">
   <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
@@ -50,6 +50,7 @@ function myFunction2() {
 </script>
 
 
+
 <h1 class="year">2022</h1> 
 
  <ul>
@@ -59,9 +60,15 @@ function myFunction2() {
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
  
-<style>
-#more {display: none;}
-</style> 
+
+<span id="dots"></span><span id="more">
+
+ <script>
+  if (document.getElementById("dots").style.display != "none"){
+  document.getElementById("dots").style.display = "inline";
+  document.getElementById("more").style.display = "none";
+  }
+ </script>
  
  
  <p align="center">
