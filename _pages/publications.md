@@ -63,13 +63,6 @@ function myFunction2() {
 #more {display: none;}
 </style> 
  
-<span id="dots"></span><span id="more">
-  <script>
-  if (document.getElementById("dots").style.display != "none"){
-  document.getElementById("dots").style.display = "inline";
-  document.getElementById("more").style.display = "none";
-  }
- </script>
  
  <p align="center">
   <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
