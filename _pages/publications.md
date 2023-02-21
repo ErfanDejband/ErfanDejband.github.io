@@ -28,14 +28,14 @@ author_profile: true
 </p>
 
 
-<p align="justify"><b>Abstract: In this paper, a novel liquid level sensing system is proposed to enhance the capacity of the sensing system, as well as reduce the cost and increase the sensing accuracy. The proposed sensing system can monitor the liquid level of several points at the same time in the sensing unit. Additionally, for cost efficiency, the proposed system employs only one sensor at each spot and all the sensors are multiplexed. In multiplexed systems, when changing the liquid level inside the container, the float position is changed and leads to an overlap or cross-talk between two sensors. To solve this overlap problem and to accurately predict the liquid level of each container, we proposed a deep neural network (DNN) approach to properly identify the water level. The performance of the proposed DNN model is evaluated via two different scenarios and the result proves that the proposed DNN model can accurately predict the liquid level of each point. Furthermore, when comparing the DNN model with the conventional machine learning schemes, including random forest (RF) and support vector machines (SVM), the DNN model exhibits the best performance.</b> .</p></span></ul>
+<p align="justify"><b>Abstract:</b> In this paper, a novel liquid level sensing system is proposed to enhance the capacity of the sensing system, as well as reduce the cost and increase the sensing accuracy. The proposed sensing system can monitor the liquid level of several points at the same time in the sensing unit. Additionally, for cost efficiency, the proposed system employs only one sensor at each spot and all the sensors are multiplexed. In multiplexed systems, when changing the liquid level inside the container, the float position is changed and leads to an overlap or cross-talk between two sensors. To solve this overlap problem and to accurately predict the liquid level of each container, we proposed a deep neural network (DNN) approach to properly identify the water level. The performance of the proposed DNN model is evaluated via two different scenarios and the result proves that the proposed DNN model can accurately predict the liquid level of each point. Furthermore, when comparing the DNN model with the conventional machine learning schemes, including random forest (RF) and support vector machines (SVM), the DNN model exhibits the best performance.</p></span></ul>
 
 
 <script>
 function myFunction2() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+  var dots = document.getElementById("dots2");
+  var moreText = document.getElementById("more2");
+  var btnText = document.getElementById("myBtn2");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
@@ -64,6 +64,12 @@ function myFunction2() {
 </style> 
  
 <span id="dots"></span><span id="more">
+  <script>
+  if (document.getElementById("dots").style.display != "none"){
+  document.getElementById("dots").style.display = "inline";
+  document.getElementById("more").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
