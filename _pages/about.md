@@ -12,74 +12,49 @@ redirect_from:
 <h1 class="post-title">About me</h1>
 </header>
 
-<div>
-    <input type="checkbox" class="checkbox" id="checkbox">
-  <label for="checkbox" class="label">
-    <i class="fas fa-moon"></i>
-    <i class='fas fa-sun'></i>
-    <div class='ball'>
-  </label>
-</div>
-  * {
-  box-sizing: border-box;
-}
+<style>
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-  transition: background 0.2s linear;
-}
-body.dark {
-  background-color: #292c35;
-}
-.checkbox {
-  opacity: 0;
-  position: absolute;
-}
-
-.label {
-  width: 50px;
-  height: 26px;
-  background-color:#111;
-  display: flex;
-  border-radius:50px;
-  align-items: center;
-  justify-content: space-between;
-  padding: 5px;
-  position: relative;
-  transform: scale(1.5);
-}
-
-.ball {
-  width: 20px;
-  height: 20px;
+  padding: 25px;
   background-color: white;
-  position: absolute;
-  top: 2px;
-  left: 2px;
-  border-radius: 50%;
-  transition: transform 0.2s linear;
+  color: black;
+  font-size: 25px;
 }
 
-/*  target the elemenent after the label*/
-.checkbox:checked + .label .ball{
-  transform: translateX(24px);
+.dark-mode {
+  background-color: black;
+  color: white;
 }
+</style>
+</head>
 
-.fa-moon {
-  color: pink;
+
+<button onclick="myFunction()">Toggle dark mode</button>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
 }
+</script>
+<script>
+    checkbox.addEventListener( 'change', function() {
+         localStorage.setItem('dark',this.checked);
+         if(this.checked) {
+              body.classList.add('dark')
+         } else {
+              body.classList.remove('dark')     
+         }
+    });
+    
+ </script>   
+ 
+ <script>
+    if(localStorage.getItem('dark')) {
+         body.classList.add('dark');
+    }
 
-.fa-sun {
-  color: yellow;
-}
-  const checkbox = document.getElementById('checkbox');
+  </script> 
 
-checkbox.addEventListener('change', ()=>{
-  document.body.classList.toggle('dark');
-})
 
 <p> Hello and thanks for stopping by! 
   
