@@ -4,13 +4,7 @@ title: "Honors & Awards"
 permalink: /awards/
 author_profile: true
 ---
- <script>
-    if(localStorage.getItem('dark')) {
-         body.classList.add('dark');
-    }
-
-  </script> 
-  
+ 
 <ul>
   <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i>  Awarded Ph.D. Full Scholarship (Merit-Based) from the National Taipei University of Technology 2021- peresent.
   <ul><ul>
