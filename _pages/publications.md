@@ -21,7 +21,7 @@ author_profile: true
 #more {display: none;}
 </style> 
  
-<span id="dots2"></span><span id="more2">
+
  
  <p align="center">
   <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
