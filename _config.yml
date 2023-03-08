@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erfan Dejband"
 title_separator          : "-"
 name                     : &name "Erfan Dejband"
-description              : &description <p>"Doctoral Research Assistant at Wireless Communications Lab and Optoelectronic Signal Processing Lab </p> <p>National Taipei University of Technology , Taipei, Taiwan"</p>
+description              : &description <p>"Doctoral11 Research Assistant at Wireless Communications Lab and Optoelectronic Signal Processing Lab </p> <p>National Taipei University of Technology , Taipei, Taiwan"</p>
 url                      : https://erfandejband.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ErfanDejband/ErfanDejband.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark" # "light" (default),
+    colorscheme          :  "light" # "light" (default),
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
