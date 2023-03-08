@@ -11,11 +11,10 @@ author_profile: true
 <h1 class="year">2023</h1> 
 
  <ul>
-     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">High Accuracy and Cost-Effective Fiber Optic Liquid Level Sensing System Based on Deep Neural Network </a>
-<br><strong>Erfan Dejband</strong>, Yibeltal Chanie Manie,Yu-Jie Deng, Mekuanint Agegnehu Bitew, Tan-Hsu Tan, and Peng-Chun Peng <br><em>MDPI, 2023, <b> DIO: </b><a href="https://doi.org/10.3390/s23042360" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/s23042360</a>.</em></li>
+     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #57E5B6; text-decoration:none;" target="\_blank">High Accuracy and Cost-Effective Fiber Optic Liquid Level Sensing System Based on Deep Neural Network </a>
+<br><strong>Erfan Dejband</strong>, Yibeltal Chanie Manie,Yu-Jie Deng, Mekuanint Agegnehu Bitew, Tan-Hsu Tan, and Peng-Chun Peng <br><em>MDPI, 2023</em></i> 
 
-
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360/pdf?version=1676906491" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn2">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360/pdf?version=1676906491" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn2">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
@@ -60,11 +59,11 @@ function myFunction2() {
 <h1 class="year">2022</h1> 
 
  <ul>
-     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
-<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <b> DIO: </b><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
+     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #57E5B6; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
+<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
  
 
 <span id="dots"></span><span id="more">
@@ -107,11 +106,11 @@ function myFunction() {
 <h1 class="year">2021</h1>
 
  <ul>
-     <li><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #B509AC; text-decoration:none;" target="\_blank">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning </a>
-<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.1109/WOCC53213.2021.9602997</a>.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #57E5B6; text-decoration:none;" target="\_blank">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning </a>
+<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9602997&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2MDI5OTc=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9602997&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2MDI5OTc=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
  
 
  
@@ -153,11 +152,11 @@ function myFunction3() {
 <h1 class="year">2018</h1>
 
   <ul>
-     <li><a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #B509AC; text-decoration:none;" target="\_blank">Antenna coupled GaN-based pulsed THz emitter array, enhanced with nono-slit plasmonic waveguide modes</a>
-      <br>Pouya Torkaman, Sara Darbari, Mohammad Javad Mohammad-Zamani, <strong>Erfan Dejband</strong>, Mohsen Heidari<br><em>International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2018,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.1109/MMWaTT.2018.8661229</a>.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #57E5B6; text-decoration:none;" target="\_blank">Antenna coupled GaN-based pulsed THz emitter array, enhanced with nono-slit plasmonic waveguide modes</a>
+      <br>Pouya Torkaman, Sara Darbari, Mohammad Javad Mohammad-Zamani, <strong>Erfan Dejband</strong>, Mohsen Heidari<br><em>International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2018</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661229&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMjk=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction4()" id="myBtn4">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661229&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMjk=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction4()" id="myBtn4">Show Abstract</button></p>
  
 
  
@@ -198,12 +197,11 @@ function myFunction4() {
 
 
    <ul>
-     <li><a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: #B509AC; text-decoration:none;" target="\_blank">Switchable abnormal THz wave reflector based on molybdenum disulfide (MoS2)</a>
-<br><strong>Erfan Dejband</strong>,Hamidreza Karami,Pouya Torkaman, Manouchehr Hosseini,<br><em> International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2018,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/MMWaTT.2018.8661233
-</a>.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: #57E5B6; text-decoration:none;" target="\_blank">Switchable abnormal THz wave reflector based on molybdenum disulfide (MoS2)</a>
+<br><strong>Erfan Dejband</strong>,Hamidreza Karami,Pouya Torkaman, Manouchehr Hosseini,<br><em> International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2018</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661233&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMzM=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661233&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMzM=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -244,12 +242,11 @@ function myFunction5() {
 <h1 class="year">2017</h1>
 
 <ul>
-     <li><a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: #B509AC; text-decoration:none;" target="\_blank">Tunable electromagnetic interference shield using periodic graphene-based structures in the terahertz regime </a>
-<br>Madjid Soltani, <strong> Erfan Dejband</strong>, Hamidreza Karami, Manouchehr Hosseini<br><em>International Conference on Circuits, Devices and Systems (ICCDS), 2017,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/MMWaTT.2018.8661233
-</a>.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: #57E5B6; text-decoration:none;" target="\_blank">Tunable electromagnetic interference shield using periodic graphene-based structures in the terahertz regime </a>
+<br>Madjid Soltani, <strong> Erfan Dejband</strong>, Hamidreza Karami, Manouchehr Hosseini<br><em>International Conference on Circuits, Devices and Systems (ICCDS), 2017</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
  
 
  
@@ -290,12 +287,11 @@ function myFunction6() {
 <h1 class="year">2016</h1>
 
  <ul>
-     <li><a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: #B509AC; text-decoration:none;" target="\_blank">Multi resonance perfect absorber based on graphene micro ribbons</a>
-<br>Majid Roshanaei, <strong>Erfan Dejband</strong> Hamidreza Karami, Reza Parvaz<br><em>International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2016,<b>DIO: </b><a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/Meta16.2016.24291390
-</a>.</em></li>
+     <li><a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: #57E5B6; text-decoration:none;" target="\_blank">Multi resonance perfect absorber based on graphene micro ribbons</a>
+<br>Majid Roshanaei, <strong>Erfan Dejband</strong> Hamidreza Karami, Reza Parvaz<br><em>International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2016</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: blue; text-decoration:none;" target="\_blank"><strong>Meta16</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction7()" id="myBtn7">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>Meta16</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction7()" id="myBtn7">Show Abstract</button></p>
  
 <span id="dots7"></span><span id="more7">
  
