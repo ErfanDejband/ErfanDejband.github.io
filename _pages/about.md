@@ -35,7 +35,7 @@ My research interests lie primarily in application of Deep learning in optoelect
     
  
 <p align="center">
-  <img width="400" height="93" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/Picture1145.png?raw=true">
+  <img width="600" height="50" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/Picture1145.png?raw=true">
 </p>
 
   <p align="center">
