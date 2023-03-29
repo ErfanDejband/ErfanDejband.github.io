@@ -12,12 +12,13 @@ redirect_from:
 <h1 class="post-title">About me </h1>
 </header>
 <p> I am currently a Ph.D. student in the College of Electrical Engineering and Computer Science at the <a href="https://www-en.ntut.edu.tw/" target="\_blank" style="color: #57E5B6; text-decoration:none">  national taipei university of technology (taipei Tech)</a>. I joined the <a href="https://labs.ee.ntut.edu.tw/lab416/" target="\_blank" style="color: #57E5B6; text-decoration:none">  Wireless Communications Lab </a>  under the supervision of <a href="https://www.ee.ntut.edu.tw/English/teacher/teacher2.php?tsn=43" target="\_blank" style="color: #57E5B6; text-decoration:none">  Prof. Tan-Hsu Tan</a> in spring 2021 and joined to the <a href="https://eo.ntut.edu.tw/p/412-1069-12931.php?Lang=zh-tw" target="\_blank" style="color: #57E5B6; text-decoration:none">  Optoelectronic Signal Processing Lab </a>  under the co-supervision of <a href="https://scholar.google.com/citations?hl=en&user=H_iNBAgAAAAJ" target="\_blank" style="color: #57E5B6; text-decoration:none">  Prof. Peng-Chun Peng </a> in fall 2021  <br> <br>
-My research interests lie primarily in application of Deep learning in optoelectronic such as: invese design of metamaterials, Optic sesing based on Deep learning, and THz metasurface invese design. <br> <br>
+My research interests lie primarily in application of Deep learning in optoelectronic such as: invese design of metamaterials, Optic sensing based on Deep learning, and THz metasurface invese design. <br> <br>
 <!--I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #57E5B6; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br> -->
 
 <p align="center">
-  <img width="500" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/about_gif.gif?raw=true">
-</p>
+  <!-- <img width="500" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/about_gif.gif?raw=true">-->
+  <img width="300" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/Picture11.png?raw=true">
+</p> 
  
 <div class="News">
 <h2><i class='fas fa-newspaper'></i>News</h2>
