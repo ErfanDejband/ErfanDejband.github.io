@@ -24,6 +24,7 @@ My research interests lie primarily in the application of Deep Learning in optoe
 <div class="News">
 <h2><i class='fas fa-newspaper'></i>News</h2>
         <ul>
+          <li align="justify"><i class='fas fa-pen-alt'></i><b> June  2023:</b> I joined the  <a href="https://www.shl-medical.com/" target="\_blank" style="color: #57E5B6; text-decoration:none"> The SHL Medical </a> as a machine learning engineer intern </li>
           <li align="justify"><i class='fas fa-pen-alt'></i><b> January  2023:</b> My research paper, <i>"High Accuracy and Cost-Effective Fiber Optic Liquid Level Sensing System Based on Deep Neural Network"</i>, is published in the <b>MDPI Sensors</b> journal. </li>
           <li align="justify"><i class='fas fa-pen-alt'></i><b> November 2022:</b> My research paper, <i>"Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System"</i>, is published in the <b>Photonics</b> journal. </li>
           <li align="justify"><i class='fas fa-pen-alt'></i><b> October 2021:</b> My research paper, <i>"Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning"</i>, is published in the <b>IEEE Wireless and Optical Communications Conference (WOCC)</b> journal. </li>
