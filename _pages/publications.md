@@ -11,7 +11,7 @@ author_profile: true
 <h1 class="year">2023</h1> 
 
  <ul>
-     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #57E5B6; text-decoration:none;" target="\_blank">High Accuracy and Cost-Effective Fiber Optic Liquid Level Sensing System Based on Deep Neural Network </a>
+     <li><a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: #57E5B6; text-decoration:none;" target="\_blank">High Accuracy and Cost-Effective Fiber Optic Liquid Level Sensing System Based on Deep Neural Network </a>
 <br><strong>Erfan Dejband</strong>, Yibeltal Chanie Manie,Yu-Jie Deng, Mekuanint Agegnehu Bitew, Tan-Hsu Tan, and Peng-Chun Peng <br><em>MDPI Sensors, 2023</em></li> 
 
 <p><i class="fas fa-globe" style="color:#57E5B6"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360" style="color: #57E5B6; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/23/4/2360/pdf?version=1676906491" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn2">Show Abstract</button></p>
